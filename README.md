@@ -2,7 +2,9 @@ THIS IS NOT MY WORK!!!
 
 Centralized here for my own personal convenience. 
 
-Full credit given to the authors: https://cs.baylor.edu/~donahoo/practical/CSockets/textcode.html
+100% Full credit given to the authors: https://cs.baylor.edu/~donahoo/practical/CSockets/textcode.html
+
+![Describe the image here](https://cs.baylor.edu/~donahoo/practical/images/cpractical.gif)
 
 Please support them [here](https://www.amazon.com/TCP-IP-Sockets-Practical-Programmers/dp/1558608265/ref=sr_1_4?crid=38KQE65IUUO8P&dib=eyJ2IjoiMSJ9.ESfQXWrb99bO19BPCyRzmhU2orSoEJVnLB0hbOF5x-wjFqI3BmlgRYRsmJv15pZIuR9cFLh7B7bpm2SLlnv6V69kAip3bNcbBG6LLEMLPWBkj-aXfhFXGUuVBv4ULFIWsSEZU5lmCr7Fg9hQqBaywNO1F_oCFcwHTEZaYmhTVsEA0QJvAt2dSu2R4K1gfShXRBoWKKpjq4drTpST1PxgzoI_H5QsxZv8KUMvjFoNWVzB3MHtQQWlBcxfREsL4EMqZk5bHcjdkOEY1XgevPkRSwe6ULhA_4zFZD_-jKfN5cY.T2W20i0a3EI0YE72j40Qpo8UVX3HrtU78UlmqTCIx90&dib_tag=se&keywords=tcp%2Bsockets%2Bin%2Bc&qid=1794159599&sprefix=tcp%2Bsockets%2Bin%2B%2Caps%2C203&sr=8-4&th=1)
 
@@ -10,7 +12,7 @@ Please support them [here](https://www.amazon.com/TCP-IP-Sockets-Practical-Progr
 
 Below is the example source code from "__TCP/IP Sockets in C: Practical Guide for Programmers" by Michael J. Donahoo and Kenneth L. Calvert__. 
 
-![Describe the image here](https://cs.baylor.edu/~donahoo/practical/images/cpractical.gif)
+
 
 This book can be ordered at your favorite local bookstore or online. [Official Book Website](http://www.mkp.com/books_catalog/catalog.asp?ISBN=1-55860-826-5)
 
